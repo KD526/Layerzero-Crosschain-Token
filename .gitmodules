@@ -4,3 +4,12 @@
 [submodule "lib/LayerZero-v2"]
 	path = lib/LayerZero-v2
 	url = https://github.com/LayerZero-Labs/LayerZero-v2
+[submodule "crosschain/lib/LayerZero-v2"]
+	path = crosschain/lib/LayerZero-v2
+	url = https://github.com/LayerZero-Labs/LayerZero-v2
+[submodule "crosschain/lib/openzeppelin-contracts"]
+	path = crosschain/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "crosschain/lib/solmate"]
+	path = crosschain/lib/solmate
+	url = https://github.com/transmissions11/solmate
